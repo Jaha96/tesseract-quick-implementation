@@ -4,6 +4,7 @@ Tesseract-ocr quick implementation using python and generated exe file by pyinst
 
 ## Installation
 
+Tested with Windows 10 64bit, python 3.6
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
